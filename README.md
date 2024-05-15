@@ -22,7 +22,7 @@ This project is a basic web application designed to simulate a cash register. It
 
 ## Deployment
 
-This project is deployed on [Netlify](https://your-netlify-app-url.com) for easy access and testing.
+This project is deployed on [Netlify](https://cash-register-brynsgtn.netlify.app/) for easy access and testing.
 
 ## Credits
 
