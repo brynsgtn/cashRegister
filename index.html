@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="./style.css">
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="./favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png">
+    <link rel="manifest" href="./favicon/site.webmanifest">
+    <title>Cash Register Project</title>
+  </head>
+  <body>
+    <div class="container">
+        <h1 class="header">Cash Register Project</h1>
+        <div class="register-container">
+            <div id="total" class="total"></div>
+            <p class="label">Enter Cash From Customer: </p>
+            <div class="input-wrapper">
+                <input id="cash" type="number" step="1" value="0">
+                <button id ="purchase-btn" class="purchase-btn">Purchase</button>                   
+                <div id="cash-in-drawer"></div>
+            </div> 
+        </div>
+        <div id="change-container" class="change-container">
+            <div id="change-due" class="change-due"></div>  
+        </div>
+    </div>
+  </body>
+  <!-- Script -->
+  <script src="script.js"></script>
+</html>
