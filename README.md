@@ -1,6 +1,6 @@
 # Cash Register Project
 
-This project is a basic web application designed to simulate a cash register. It allows users to input the amount of cash tendered by a customer and calculates the change due based on the price of an item. The application is built using HTML, CSS, and JavaScript.
+This project is a basic web application designed to simulate a cash register. It allows users to input the amount of cash tendered by a customer and calculates the change due based on the price of an item. The application is built using HTML, CSS, JavaScript and TypeScript.
 
 ## Features
 
@@ -13,6 +13,7 @@ This project is a basic web application designed to simulate a cash register. It
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 
 ## How to Use
 
